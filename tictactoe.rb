@@ -1,4 +1,4 @@
-#Complete HW assignment, lacks AI
+#Complete HW assignment, lacks AI (TBD)
 
 class Menu < Object
 
